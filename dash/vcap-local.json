@@ -3,9 +3,9 @@
     "cloudantNoSQLDB": [
       {
         "credentials": {
-          "username":"fc30a364-e18b-4174-9123-3a8fe9bf8769-bluemix",
-          "password":"1f21fda1a18b56d04ea2dfaccf950be593dcd7cffc501aaca91e882b07a25f0d",
-          "host":"fc30a364-e18b-4174-9123-3a8fe9bf8769-bluemix.cloudant.com"
+          "username":"",
+          "password":"",
+          "host":""
         },
         "label": "cloudantNoSQLDB"
       }
